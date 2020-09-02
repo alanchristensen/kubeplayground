@@ -1,5 +1,6 @@
 # kubeplayground
 
+**This repo exists to support replicating https://github.com/godaddy/terminus/issues/31**
 
 Playground for NodeJS + Kubernetes
 
